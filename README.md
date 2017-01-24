@@ -1,2 +1,2 @@
 # tweets
-code the life
+** Rookie **
